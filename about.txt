@@ -1,0 +1,5 @@
+Its the solution for all the riddles and hurdles in the Reeborgs world
+**********************************************************************
+Its for users who are solving using python syntax
+just copy the code from the repo into your reeborgs world
+enter the world direclt - https://reeborg.ca/reeborg.html
